@@ -1,4 +1,4 @@
-# 🧑‍💻 HR Analytics Dashboard: Driving Workforce Strategy with Power BI
+# 🧑‍💻 HR Analytics Dashboard Using Power BI
 
 ## 🚀 Project Overview
 
